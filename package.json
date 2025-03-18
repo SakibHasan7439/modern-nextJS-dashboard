@@ -2,7 +2,6 @@
   "private": true,
   "scripts": {
     "build": "next build",
-    "postinstall": "pnpm rebuild bcrypt --build-from-source",
     "dev": "next dev --turbopack",
     "start": "next start"
   },
